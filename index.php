@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Nidhi G T
+<div id="center-set"> - By Nidhi G  T
 <div id="signup">
 <div id="signup-st">
 <div align="center">
